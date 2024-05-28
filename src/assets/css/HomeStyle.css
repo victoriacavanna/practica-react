@@ -1,0 +1,46 @@
+.carousel-item {
+    overflow: hidden;
+    height: 90vh;
+}
+
+.logo-nav {
+    width: 6vw;
+}
+
+.img-abtus {
+    width: 100%;
+}
+
+.banner-img {
+    height: 20vh;
+    overflow: hidden;
+}
+
+.card {
+    background-color: transparent;
+    border: none;
+}
+
+.abtus-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.category-title {
+    font-size: 4rem;
+}
+
+.abtus-title {
+    font-size: 5rem;
+}
+
+.footer-nav {
+    list-style: none;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+footer {
+    background-color: #b096b9;
+}
